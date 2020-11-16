@@ -1,0 +1,7 @@
+C:\Users\feli03002\Source\Repos\Gissa_Tal_Uppgift\Gissa_Tal_Console\bin\Debug\Gissa_Tal_Console.exe.config
+C:\Users\feli03002\Source\Repos\Gissa_Tal_Uppgift\Gissa_Tal_Console\bin\Debug\Gissa_Tal_Console.exe
+C:\Users\feli03002\Source\Repos\Gissa_Tal_Uppgift\Gissa_Tal_Console\bin\Debug\Gissa_Tal_Console.pdb
+C:\Users\feli03002\Source\Repos\Gissa_Tal_Uppgift\Gissa_Tal_Console\obj\Debug\Gissa_Tal_Console.csprojAssemblyReference.cache
+C:\Users\feli03002\Source\Repos\Gissa_Tal_Uppgift\Gissa_Tal_Console\obj\Debug\Gissa_Tal_Console.csproj.CoreCompileInputs.cache
+C:\Users\feli03002\Source\Repos\Gissa_Tal_Uppgift\Gissa_Tal_Console\obj\Debug\Gissa_Tal_Console.exe
+C:\Users\feli03002\Source\Repos\Gissa_Tal_Uppgift\Gissa_Tal_Console\obj\Debug\Gissa_Tal_Console.pdb
