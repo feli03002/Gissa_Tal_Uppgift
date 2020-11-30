@@ -17,10 +17,13 @@ namespace Gissa_Tal_Forms
         public int försök = 0;
         public Random rng = new Random();
         
+        
         public Form1()
         {
             InitializeComponent();
             tal = rng.Next(0, 101);
+            label3.Text = "";
+            label4.Text = "";
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -44,7 +47,11 @@ namespace Gissa_Tal_Forms
                 försök++;
             }
             else
+            {
                 label3.Text = "Rätt!";
+                label4.Text = "Det tog " + försök + "st försök";
+            }
+
         }
     }
 }

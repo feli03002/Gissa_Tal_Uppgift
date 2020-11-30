@@ -8,3 +8,13 @@ C:\Users\feli03002\Source\Repos\Gissa_Tal_Uppgift\Gissa_Tal_Forms\obj\Debug\Giss
 C:\Users\feli03002\Source\Repos\Gissa_Tal_Uppgift\Gissa_Tal_Forms\obj\Debug\Gissa_Tal_Forms.csproj.CoreCompileInputs.cache
 C:\Users\feli03002\Source\Repos\Gissa_Tal_Uppgift\Gissa_Tal_Forms\obj\Debug\Gissa_Tal_Forms.exe
 C:\Users\feli03002\Source\Repos\Gissa_Tal_Uppgift\Gissa_Tal_Forms\obj\Debug\Gissa_Tal_Forms.pdb
+C:\Users\feli03002\Desktop\E\Gissa_Tal_Forms\bin\Debug\Gissa_Tal_Forms.exe.config
+C:\Users\feli03002\Desktop\E\Gissa_Tal_Forms\bin\Debug\Gissa_Tal_Forms.exe
+C:\Users\feli03002\Desktop\E\Gissa_Tal_Forms\bin\Debug\Gissa_Tal_Forms.pdb
+C:\Users\feli03002\Desktop\E\Gissa_Tal_Forms\obj\Debug\Gissa_Tal_Forms.csprojAssemblyReference.cache
+C:\Users\feli03002\Desktop\E\Gissa_Tal_Forms\obj\Debug\Gissa_Tal_Forms.Form1.resources
+C:\Users\feli03002\Desktop\E\Gissa_Tal_Forms\obj\Debug\Gissa_Tal_Forms.Properties.Resources.resources
+C:\Users\feli03002\Desktop\E\Gissa_Tal_Forms\obj\Debug\Gissa_Tal_Forms.csproj.GenerateResource.cache
+C:\Users\feli03002\Desktop\E\Gissa_Tal_Forms\obj\Debug\Gissa_Tal_Forms.csproj.CoreCompileInputs.cache
+C:\Users\feli03002\Desktop\E\Gissa_Tal_Forms\obj\Debug\Gissa_Tal_Forms.exe
+C:\Users\feli03002\Desktop\E\Gissa_Tal_Forms\obj\Debug\Gissa_Tal_Forms.pdb
